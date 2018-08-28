@@ -55,6 +55,8 @@
 
 ## Maven生命周期(三个过程)
 
+![生命周期图示](../images/mvnlifecycle.jpg)
+
 区分术语:lifecycle/phase/goal
 
 生命周期:
@@ -74,3 +76,4 @@
 
 > A Build Phase is Made Up of Plugin Goals  一个构建phase是由多个插件目标goal构成
 
+**maven执行每个命令时，生命周期中位于它前面的每个步骤都会执行**
