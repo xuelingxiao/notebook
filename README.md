@@ -15,7 +15,9 @@
 
 ## 设计模式
 
-**[设计模式一: 单例模式(Singleton)](./design-pattens/1. 单例模式.md)**
+**[设计模式一: 单例模式(Singleton)](./design-pattens/1.单例模式.md)**
+
+**[设计模式二: 工厂方法(Factory Method)](./design-pattens/2.工厂方法.md)**
 
 ## Java核心技术卷一（学习笔记）
 
