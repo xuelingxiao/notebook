@@ -23,8 +23,8 @@
 
 ## Java核心技术卷一（学习笔记）
 
-**[第一章 Java程序设计概述](./javacore/1.第一章 Java程序设计概述.md)**
+**[第一章 Java程序设计概述](./javacore/1.第一章--Java程序设计概述.md)**
 
-**[第二章 Java程序设计环境](./javacore/2.第二章 Java程序设计环境.md)**
+**[第二章 Java程序设计环境](./javacore/2.第二章--Java程序设计环境.md)**
 
 
