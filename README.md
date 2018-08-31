@@ -19,6 +19,8 @@
 
 **[设计模式二: 工厂方法(Factory Method)](./design-pattens/2.工厂方法.md)**
 
+**[设计模式三: 代理模式(Proxy) -- JDK的实现方式](./design-pattens/3.代理模式1.md)**
+
 ## Java核心技术卷一（学习笔记）
 
 **[第一章 Java程序设计概述](./javacore/1.第一章 Java程序设计概述.md)**
