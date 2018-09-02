@@ -21,7 +21,9 @@
 
 **[设计模式三: 代理模式(Proxy) -- JDK的实现方式](./design-pattens/3.代理模式1.md)**
 
-**[# 设计模式三: 代理模式(Proxy) -- 使用cglib](./design-pattens/3.代理模式2.md)**
+**[设计模式三: 代理模式(Proxy) -- 使用cglib](./design-pattens/3.代理模式2.md)**
+
+**[设计模式四: 抽象工厂(Abstract Factory)](./design-pattens/4.抽象工厂.md)**
 
 
 ## Java核心技术卷一（学习笔记）
