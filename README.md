@@ -25,6 +25,8 @@
 
 **[设计模式四: 抽象工厂(Abstract Factory)](./design-pattens/4.抽象工厂.md)**
 
+**[设计模式五: 原型模式(Prototype)](./design-pattens/5.原型模式.md)**
+
 
 ## Java核心技术卷一（学习笔记）
 
