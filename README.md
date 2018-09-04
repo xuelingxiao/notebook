@@ -27,6 +27,8 @@
 
 **[设计模式五: 原型模式(Prototype)](./design-pattens/5.原型模式.md)**
 
+**[设计模式六: 模板方法(Template Method)](./design-pattens/6.模板方法.md)**
+
 
 ## Java核心技术卷一（学习笔记）
 
