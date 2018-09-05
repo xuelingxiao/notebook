@@ -29,6 +29,8 @@
 
 **[设计模式六: 模板方法(Template Method)](./design-pattens/6.模板方法.md)**
 
+**[设计模式七: 策略(Strategy)](./design-pattens/7.策略模式.md)**
+
 
 ## Java核心技术卷一（学习笔记）
 
