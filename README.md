@@ -34,15 +34,20 @@
 
 ## Java核心技术卷一（学习笔记）
 
-**[第一章 Java程序设计概述](./javacore/1.第一章--Java程序设计概述.md)**
+**[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
 
-**[第二章 Java程序设计环境](./javacore/2.第二章--Java程序设计环境.md)**
+**[第二章 Java程序设计环境](./corejava/2.第二章--Java程序设计环境.md)**
 
-**[第三章 Java的基础程序设计结构](./javacore/3.第三章--Java的基础程序设计结构.md)**
+**[第三章 Java的基础程序设计结构](./corejava/3.第三章--Java的基础程序设计结构.md)**
 
-**[第四章 对象与类](./javacore/4.第四章--对象与类.md)**
+**[第四章 对象与类](./corejava/4.第四章--对象与类.md)**
 
-**[第五章 继承](./javacore/5.第五章--继承.md)**
+**[第五章 继承](./corejava/5.第五章--继承.md)**
 
+**[第六章 接口,lamda表达式与内部类](./corejava/6.第六章--接口lamda表达式与内部类.md)**
+
+## Spring 实战 (学习笔记)
+
+**[Spring系列(一) Spring总览](./spring/1.Spring的核心.md)**
 
 
