@@ -51,4 +51,5 @@
 
 **[Spring系列(一) Spring总览](./spring/1.Spring的核心.md)**
 
+**[Spring系列(二) Bean装配](./spring/2.bean装配.md)**
 
