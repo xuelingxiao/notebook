@@ -31,6 +31,7 @@
 
 **[设计模式七: 策略(Strategy)](./design-pattens/7.策略模式.md)**
 
+**[设计模式八: 委派(Delegate)](./design-pattens/8.委派模式.md)**
 
 ## Java核心技术卷一（学习笔记）
 
