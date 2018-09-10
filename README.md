@@ -47,6 +47,8 @@
 
 **[第六章 接口,lamda表达式与内部类](./corejava/6.第六章--接口lamda表达式与内部类.md)**
 
+**[第七章 异常, 断言和日志](./corejava/7.第七章--异常-断言和日志.md)**
+
 ## Spring 实战 (学习笔记)
 
 **[Spring系列(一) Spring总览](./spring/1.Spring的核心.md)**
