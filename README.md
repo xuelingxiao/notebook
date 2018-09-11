@@ -56,3 +56,5 @@
 **[Spring系列(二) Bean装配](./spring/2.bean装配.md)**
 
 **[Spring系列(三) Bean装配的高级技术](./spring/3.bean装配高级技术.md)**
+
+**[Spring系列(四) 面向切面的Spring](./spring/4.面向切面的Spring.md)**
