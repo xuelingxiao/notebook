@@ -33,6 +33,8 @@
 
 **[设计模式八: 委派(Delegate)](./design-pattens/8.委派模式.md)**
 
+**[设计模式九: 观察者模式(Observer Pattern)](./design-pattens/9.观察者模式.md)**
+
 ## Java核心技术卷一（学习笔记）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
