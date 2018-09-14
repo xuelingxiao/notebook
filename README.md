@@ -35,6 +35,10 @@
 
 **[设计模式九: 观察者模式(Observer Pattern)](./design-pattens/9.观察者模式.md)**
 
+## 分布式架构
+
+**[分布式系列一: 概述](./distributed/0.分布式概述.md)**
+
 ## Java核心技术卷一（学习笔记）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
