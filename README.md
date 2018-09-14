@@ -64,3 +64,5 @@
 **[Spring系列(三) Bean装配的高级技术](./spring/3.bean装配高级技术.md)**
 
 **[Spring系列(四) 面向切面的Spring](./spring/4.面向切面的Spring.md)**
+
+**[Spring系列(五) 容器初始化过程源码](./spring/5.容器初始化过程源码.md)**
