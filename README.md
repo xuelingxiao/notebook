@@ -1,6 +1,6 @@
 # 目录
 
-记录Java的学习轨迹.
+记录Java的学习轨迹. 
 
 ## 工程化专题
 
@@ -48,7 +48,7 @@
 
 **[分布式系列五: RMI通信](./distributed/4.RMI通信.md)**
 
-## Java核心技术卷一（学习笔记）
+## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
 
@@ -70,7 +70,7 @@
 
 **[第十三章 部署Java应用程序](./corejava/10.第十三章--部署Java应用程序.md)**
 
-## Spring 实战 (学习笔记)
+## Spring 实战 (学习笔记,前四章是基础知识比较重要,后面的是否写要看情况)
 
 **[Spring系列(一) Spring总览](./spring/1.Spring的核心.md)**
 
