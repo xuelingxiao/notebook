@@ -50,6 +50,8 @@
 
 **[分布式系列六: WebService简介](./distributed/5.WebService.md)**
 
+**[分布式系列七: zookeeper简单用法](./distributed/6.zookeeper.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
