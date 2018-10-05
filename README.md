@@ -74,7 +74,7 @@
 
 **[第十三章 部署Java应用程序](./corejava/10.第十三章--部署Java应用程序.md)**
 
-## Spring 实战 (学习笔记,前四章是基础知识比较重要,后面的是否写要看情况)
+## Spring (前四篇是<Spring实战>学习笔记)
 
 **[Spring系列(一) Spring总览](./spring/1.Spring的核心.md)**
 
@@ -87,3 +87,5 @@
 **[Spring系列(五) 容器初始化过程源码](./spring/5.容器初始化过程源码.md)**
 
 **[Spring系列(六) Spring Web MVC 应用构建分析](./spring/6.Spring-Web-MVC-构建.md)**
+
+**[Spring系列(七) Spring MVC 异常处理](./spring/7.Spring-MVC-异常处理.md)**
