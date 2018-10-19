@@ -36,6 +36,8 @@
 
 **[设计模式九: 观察者模式(Observer Pattern)](./design-pattens/9.观察者模式.md)**
 
+**[设计模式十: 生成器模式(Builder Pattern)](./design-pattens/10.生成器模式.md)**
+
 ## 分布式架构
 
 **[分布式系列一: 概述](./distributed/0.分布式概述.md)**
