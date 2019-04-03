@@ -54,6 +54,8 @@
 
 **[分布式系列七: zookeeper简单用法](./distributed/6.zookeeper.md)**
 
+**[分布式系列八: 分布式事务理论](./distributed/7.分布式事务.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
