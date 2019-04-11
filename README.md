@@ -56,6 +56,8 @@
 
 **[分布式系列八: 分布式事务理论](./distributed/7.分布式事务.md)**
 
+**[分布式系列九: kafka的重要概念](./distributed/8.kafka.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
