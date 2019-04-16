@@ -62,6 +62,8 @@
 
 **[分布式系列十一: Redis进阶](./distributed/10.redis进阶.md)**
 
+**[分布式系列十二: Redis高级主题](./distributed/11.redis高级主题.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
