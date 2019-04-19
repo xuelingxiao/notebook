@@ -64,6 +64,8 @@
 
 **[分布式系列十二: Redis高级主题](./distributed/11.redis高级主题.md)**
 
+**[分布式系列十三: nginx](./distributed/12.nginx.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
