@@ -68,6 +68,8 @@
 
 **[分布式系列十四: 分库分表](./distributed/13.分库分表.md)**
 
+**[分布式系列十五: MongoDB数据库](./distributed/14.MongoDB数据库.md)**
+
 ## Java核心技术卷一（学习笔记, 没有Applet和Swing编程的章节）
 
 **[第一章 Java程序设计概述](./corejava/1.第一章--Java程序设计概述.md)**
@@ -109,6 +111,8 @@
 ## Spring Boot 系列
 
 **[Spring Boot系列(一) Spring Boot准备知识](./springboot/1.Spring_Boot准备知识.md)**
+
+**[Spring Boot系列(二) Spring Boot 之 REST](./springboot/2.Spring_Boot之Rest.md)**
 
 ## 面试相关
 
