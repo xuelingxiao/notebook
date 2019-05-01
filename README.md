@@ -114,6 +114,8 @@
 
 **[Spring Boot系列(二) Spring Boot 之 REST](./springboot/2.Spring_Boot之Rest.md)**
 
+**[Spring Boot系列(三) Spring Boot 之 JDBC](./springboot/3.Spring_Boot之JDBC.md)**
+
 ## 面试相关
 
 **[208道面试题](./interview/208道面试题.md)**
