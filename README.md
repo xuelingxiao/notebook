@@ -128,6 +128,8 @@
 
 **[Spring Boot系列(三) Spring Boot 之 JDBC](./springboot/3.Spring_Boot之JDBC.md)**
 
+**[Spring Boot系列(四) Spring Boot 之验证](./springboot/4.Spring_Boot之验证.md)**
+
 --------
 
 ## 面试相关
