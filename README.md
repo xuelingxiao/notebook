@@ -149,3 +149,5 @@
 **[找到数组中和为给定值的两个数(two sum)](./algo/two_sum.md)**
 
 **[链表两数相加(add two numbers)](./algo/add_two_numbers.md)**
+
+**[找到字符串中最长的非重复子串(longest substring without repeating characters)](./algo/longest-substring-without-repeating-characters.md)**
