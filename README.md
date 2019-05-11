@@ -130,6 +130,8 @@
 
 **[Spring Boot系列(四) Spring Boot 之验证](./springboot/4.Spring_Boot之验证.md)**
 
+**[Spring Boot系列(四) Spring Cloud 之 Config Client](./springboot/5.Spring_Cloud之config_client.md)**
+
 --------
 
 ## 面试相关
