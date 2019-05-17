@@ -153,3 +153,12 @@
 **[链表两数相加(add two numbers)](./algo/add_two_numbers.md)**
 
 **[找到字符串中最长的非重复子串(longest substring without repeating characters)](./algo/longest-substring-without-repeating-characters.md)**
+
+---------
+
+## 资料
+
+[《Java源码分析》：ConcurrentHashMap JDK1.8](https://blog.csdn.net/u010412719/article/details/52145145)
+
+[Effective Java Third Edition](https://www.cnblogs.com/IcanFixIt/tag/Effective%20Java%20Third%20Edition/)
+
