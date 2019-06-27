@@ -104,6 +104,8 @@
 
 **[Java学习方法论](./corejava/12.Java学习方法论.md)**
 
+**[Java8并发编程](./corejava/13.Java8并发编程.md)**
+
 --------
 
 ## Spring (前四篇是<Spring实战>学习笔记)
