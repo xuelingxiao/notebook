@@ -106,6 +106,8 @@
 
 **[Java8并发编程](./corejava/13.Java8并发编程.md)**
 
+**[Java8语言特性](./corejava/15.java8特性.md)**
+
 --------
 
 ## Spring (前四篇是<Spring实战>学习笔记)
